@@ -3,3 +3,6 @@ description: ProFACE is a fully probabilistic Finite Element post-processor
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
