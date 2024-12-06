@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Features
 
 The basic concept of the ProFACE software, aimed at describing the

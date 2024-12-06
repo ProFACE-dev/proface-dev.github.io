@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ProFACE development
 
 ##### Development timeline @ Politecnico di Milano \[PoliMi\]

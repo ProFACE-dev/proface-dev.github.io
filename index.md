@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ProFACE
 
 The new software for the probabilistic fatigue assessment of components
