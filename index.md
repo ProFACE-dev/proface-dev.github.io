@@ -8,7 +8,7 @@ The new software for the probabilistic fatigue assessment of components
 with defects, conceived as a tool for a quick assessment and fatigue
 analysis of additively manufactured components.
 
-![](images/home/img_1.png)
+![](images/img_1.png)
 
 *ProFACE workflow*
 
@@ -28,14 +28,14 @@ analysis of additively manufactured components.
 
 **Typical outputs**
 
-![](images/home/image.png)
+![](images/image.png)
 
-![](images/home/image.jpg)
+![](images/image.jpg)
 
 Life estimation for a given component
 
  
 
-![](images/home/image-1.jpg)
+![](images/image-1.jpg)
 
 Maps for the critical defects area: example given
