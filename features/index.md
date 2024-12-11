@@ -19,7 +19,7 @@ ProFACE adoptes the second approach, that is more robust and simple than
 the dirtiness curves needed by the weakest-link approach.
 
 
-![](images/features/image-8.png)
+![](images/image-8.png)
 
 Evidence of the size effect for defects at the orgin of fatigue failures
 in specimens manufactured by L-PBF: a) specimens tested; b) probability
@@ -40,7 +40,7 @@ This discretizations allows the software to correctly calculate the
 failure probability of a component, where the volumetric defects can
 randomly occur close to the surface or within the component volume.
 
-![](images/features/image-9.png)
+![](images/image-9.png)
 
 #### Ingredients
 
@@ -57,7 +57,7 @@ The two  inputs allows the software to obtain a Kitagawa diagram for
 differen number of cycles and stress ratios.
 
 
-![](images/features/image-10.png)
+![](images/image-10.png)
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ the scatter of fatigue strength:
     fatigue strength is related also to life dispersion);
 
 
-![](images/features/image-5.jpg)
+![](images/image-5.jpg)
 
 
 2.  the distribution of material anomalies divided in:
@@ -79,17 +79,17 @@ statistics*** of data obtained with different experimental techniques
 (CT scan, anomalies at the origin of failures in witness specimens);
 
 
-![](images/features/image-11.png)
+![](images/image-11.png)
 
 
-![](images/features/image-7.jpg)
+![](images/image-7.jpg)
 
 – surface features, obtained by measuring the features at the origin of
 failures or accurately measuring the roughness of the net-shape surface
 (once again concepts of extreme value statistics have to be adopted for
 describing the size effect for the surface features).
 
-![](images/features/image-8.jpg)
+![](images/image-8.jpg)
 
-![](./Features%20–%20ProFACE%20Software_files/immagine.png)
+![](images/immagine.png)
 
