@@ -12,7 +12,7 @@ layout: default
 - Initially applied to RUAG bracket.
 
 
-![](images/development/image-2.png)
+![](images/image-2.png)
 
 **2019**
 
@@ -20,7 +20,7 @@ layout: default
 - Successful trial at AIRBUS on a component made of Ti6Al4V
 
 
-![](images/development/image-2.jpg)
+![](images/image-2.jpg)
 
 **2020-2022**
 
@@ -30,7 +30,7 @@ layout: default
   by MTC
 
 
-![](images/development/image-3.jpg)
+![](images/image-3.jpg)
 
 ### History
 
@@ -39,16 +39,16 @@ a Matlab(r) tool for postprocessing FE analyses, its concept was
 patented and its results published.
 
 
-![](images/development/image.png)
+![](images/image.png)
 
 Software predictions were successfully compared to a series of
 Montecarlo simulations.
 
 ------------------------------------------------------------------------
 
-![](images/development/image-3.png)
+![](images/image-3.png)
 
-![](images/development/image-4.png)
+![](images/image-4.png)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ that had been analyzed by X-ray tomography before the fatigue tests,
 have been successfully compared with detailed crack growth analyses.
 
 
-![](images/development/image-1.png)
+![](images/image-1.png)
 
 ### From a model to a software
 
@@ -73,10 +73,10 @@ that were manufactured by MTC and tested by the ESA (European Space
 Agency) \[2\].
 
 
-![](images/development/image-3(1).png)
+![](images/image-3(1).png)
 
 
-![](images/development/image-4(1).png)
+![](images/image-4(1).png)
 
 The analysis of results of machined and as-built components clarified
 that a fracture-based fatigue assessment (the one implemented in
@@ -84,10 +84,10 @@ ProFACE) is the only one able to provide good life predictions, provided
 that residual stresses were taken into account \[2\].
 
 
-![](images/development/image-4.jpg)
+![](images/image-4.jpg)
 
 
-![](images/development/image-5.png)
+![](images/image-5.png)
 
 #### **Version 2.0**.
 
@@ -107,11 +107,11 @@ The results obtained by ProFACE 2.0 \[3\] allowed us to obtain very good
 life predictions for specimens and “whishbones”.
 
 
-![](images/development/image-6.png)
+![](images/image-6.png)
 
-![](images/development/aa.png)
+![](images/aa.png)
 
-![](images/development/image-7.png)
+![](images/image-7.png)
 
 ### Future developments
 
