@@ -15,3 +15,24 @@ $body-text-color: #212529 !default;
 body {
   font-family: "Manrope", Arial, sans-serif;
 }
+
+.page-header {
+  text-align: right;
+  background-image: url("/logo/white_logo.png");
+  background-size: auto 5rem;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-position: right;
+  @include large {
+    padding: 4rem 6rem;
+  }
+
+  @include medium {
+    padding: 4rem 4rem;
+  }
+
+  @include small {
+    padding: 3rem 1rem;
+  }
+
+}
