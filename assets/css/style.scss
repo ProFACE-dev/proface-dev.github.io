@@ -6,5 +6,12 @@ $header-bg-color: #102C53 !default;
 $header-bg-color-secondary: #102C53 !default;
 // Text
 $section-headings-color: #102C53 !default;
+$body-text-color: #212529 !default;
 
 @import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body {
+  font-family: "Manrope", Arial, sans-serif;
+}
