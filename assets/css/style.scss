@@ -36,3 +36,18 @@ body {
   }
 
 }
+
+ul.navbar {
+  list-style-type: none;
+  // background-color: #E7EEF3;
+  margin: 0;
+  padding: 0;
+}
+
+ul.navbar li {
+  display: block;
+}
+
+ul.navbar li a {
+  font-weight: bolder;
+}
