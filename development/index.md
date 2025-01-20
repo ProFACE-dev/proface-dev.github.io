@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# ProFACE development
+# Development
 
 ## Development timeline @ Politecnico di Milano \[PoliMi\]
 ![](images/timeline.png)
