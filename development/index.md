@@ -1,13 +1,7 @@
 ---
 layout: default
 ---
-# Development
-
-## Development timeline @ Politecnico di Milano \[PoliMi\]
-![](images/timeline.png)
-
-------------------------------------------------------------------------
-## History
+# Development history
 
 After an initial concept in 2017, the software was developed in 2018 as a Matlab® tool to post process Finite Element analyses, then its concept was patented and its results published.
 
@@ -27,11 +21,11 @@ The notched specimens were first analysed with X-ray computed tomography and the
 ![](images/NASGRO.png)
 *Input for the NASGRO simulations: a) example position and life expected by ProFACE for the ten most critical defects detected in one of the samples; b) maximum principal stress acting on the plane containing the critical defect (in this example, z=0). Fatigue life estimation by ProFACE and NASGRO simulations: c) cdf for the batch; d) estimate for every sample. \[1\]*
 
-### From model to software
+## From model to software
 
 The initial version of the software was then tested in cooperation with Airbus. The software was later developed as a stand-alone compiled version and delivered to the European Space Agency (ESA).
 
-### From alfa version to ProFACE 1.0
+## From alfa version to ProFACE 1.0
 
 The initial concept was extended, following the results of fatigue tests on benchmark components (“wishbones”) that were manufactured by MTC and tested by ESA \[2\].
 
@@ -44,7 +38,7 @@ The analysis of results of machined and as-built components clarified that a fra
 *Defects detected on the fracture surfaces of machined (M) and as-built (AB) benchmark components. \[2\]*
 
 ------------------------------------------------------------------------
-### Version 2.0
+## Version 2.0
 
 ProFACE was further developed in the version 2.0, which allows the user to:
 
@@ -64,7 +58,7 @@ The results obtained by ProFACE 2.0 \[3\] allowed to obtain very good life predi
 *ProFACE analysis of wishbone specimens: (a) machined wishbones and (b) as-built wishbones. \[3\]*
 
 ------------------------------------------------------------------------
-### Version 2.1
+## Version 2.1
 
 The current version 2.1 introduces an additional type of material strength model. The new model allows to simulate fatigue behaviour in presence of defects by means of the NASGRO equation for crack propagation.
 

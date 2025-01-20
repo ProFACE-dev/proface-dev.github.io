@@ -20,10 +20,5 @@ The software for probabilistic fatigue assessment of components with defects, co
   - Ti6Al4V.
 - Developed and patented by **Politecnico di Milano**.
 
-## Typical outputs
-
-![](images/FN_WB_AB.png)
-*Life estimation for a given component.*
-
-![](images/acceptability_maps.png)
-*Maps for the critical defects area.*
+## Development timeline @ Politecnico di Milano \[PoliMi\]
+![](images/timeline.png)

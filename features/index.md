@@ -60,6 +60,15 @@ The two **probabilistic ingredients** are the main parameters that impact the sc
 	– surface features, also described with ***extreme value statistics*** of features at the origin of failures or of roughness measurements of the net-shape surface.
 
 ![](images/surface.png)
+    
+------------------------------------------------------------------------
+## Typical outputs
+
+![](images/FN_WB_AB.png)
+*Life estimates for a given component.*
+
+![](images/acceptability_maps.png)
+*Maps for the critical defects' area.*
   
 ------------------------------------------------------------------------
 ## References
