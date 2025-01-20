@@ -4,7 +4,7 @@ layout: default
 
 # ProFACE
 
-The software for probabilistic fatigue assessment of components with defects, conceived as a tool for rapid fatigue analysis of additively manufactured components.
+The software for probabilistic fatigue assessment of components with defects, conceived as a tool for rapid fatigue analysis of additively manufactured parts.
 
 ![](images/workflow.png)
 *ProFACE workflow.*
@@ -13,7 +13,7 @@ The software for probabilistic fatigue assessment of components with defects, co
 
 - It performs a **probabilistic fatigue assessment** of parts with **complex geometries** by evaluating the **effect** of volumetric defects and **surface** features on expected life.
 - post-processing of ABAQUS® and MSC™ finite element analyses.
-- Suitable for **Additive Manufacturing** and any **other** conventional manufacturing **processes**.
+- Suitable for **Additive Manufacturing** and any **other** conventional manufacturing **process**.
 - Current material database:
   - AlSi10Mg;
   - 17-4 PH;

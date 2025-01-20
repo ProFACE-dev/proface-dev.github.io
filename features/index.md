@@ -40,7 +40,7 @@ The first **mechanical ingredient** of ProFACE 2.0 is a suitable description of 
 
 These inputs allow the software to obtain a Kitagawa-Takahashi diagram, describing the relationship between limit stress and defect size, for different number of cycles and stress ratios.
 
-![](images/Normalized_SN.png)
+![](images/normalized_SN.png)
 *Schematic of the finite fatigue life model adopted in ProFACE for a general stress ratio R=-1: a) normalized S–N curve and b) generalized Kitagawa curves as a function of the number of cycles to failure. \[2\]*
 
 A new approach, implemented in ProFACE 2.1, permits the description of the relationship between limit stress and defect size for target life and stress ratios by interpolating **defect size-dependent S-N curves**.
