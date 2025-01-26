@@ -22,3 +22,5 @@ The software for probabilistic fatigue assessment of components with defects, co
 
 ## Development timeline @ Politecnico di Milano \[PoliMi\]
 ![](images/timeline.png)
+
+Direct licensing by **Politecnico di Milano**.
