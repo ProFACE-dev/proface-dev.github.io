@@ -79,8 +79,9 @@ This activity will allow to:
 
 Other developments of the software tool are planned in:
 
-- SmartPROFACE project (a consortium led by PoliMI with partipants: The MTC, BEAMIT, Thales France, Leonardo) where the outputs of defect acceptability maps will be adopted for the qualification of space components printed in Ti6Al4V and Scalmalloy®;
-- EU project NEUMANN, where ProFACE will be adopted for the assessment of aeroengine components in close cooperation with GE Avio (Rivalta, Italy).
+- Smart-ProFACE project, where the outputs of defect acceptability maps will be adopted for the qualification of space components printed in Ti6Al4V and Scalmalloy®; *Funded by ESA*
+- NEUMANN project, where ProFACE will be adopted for the assessment of aeroengine components in close cooperation with Avio Aero. *Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.* 
+![](images/EU.png)
   
 ------------------------------------------------------------------------
 ## References
