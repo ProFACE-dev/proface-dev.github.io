@@ -30,4 +30,4 @@ The components will be inspected by X-ray computed tomography and the acceptance
 ------------------------------------------------------------------------
 ## References
 
-\[1\] Rusnati L., Yosifov M., Senck S., Hubmann R., and Beretta S. (20124) “Anomaly detection by X-ray tomography and probabilistic fatigue assessment of aluminum brackets manufactured by PBF-LB.” *Materials & Design* 248, 113467
+\[1\] Rusnati L., Yosifov M., Senck S., Hubmann R., and Beretta S. (2024) “Anomaly detection by X-ray tomography and probabilistic fatigue assessment of aluminum brackets manufactured by PBF-LB.” *Materials & Design* 248, 113467
