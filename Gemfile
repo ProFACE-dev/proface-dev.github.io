@@ -1,4 +1,7 @@
 source "https://rubygems.org"
+
+ruby "3.4.4"
+
 # this site is built on github-pages
 group :jekyll_plugins do
   gem "github-pages"
