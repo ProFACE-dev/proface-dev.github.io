@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.4.4"
+ruby "3.4.9"
 
 # this site is built on github-pages
 group :jekyll_plugins do
