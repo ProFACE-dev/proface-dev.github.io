@@ -58,31 +58,23 @@ The results obtained by ProFACE 2.0 \[3\] allowed to obtain very good life predi
 *ProFACE analysis of wishbone specimens: (a) machined wishbones and (b) as-built wishbones. \[3\]*
 
 ------------------------------------------------------------------------
-## Version 2.1
+## Version 2.2
 
-The current version 2.1 introduces an additional type of material strength model. The new model allows to simulate fatigue behaviour in presence of defects by means of the NASGRO equation for crack propagation.
+ProFACE version 2.1 introduces an additional type of material strength model. Given the applied stress and the target fatigue life, the new model allows to calculate the critical flaw size through the NASGRO fatigue crack growth equation. The new approach was extensively validated by performing life predictions of Ti-6Al-4V fatigue specimens with different surface conditions and by assessing AlSi10Mg wishbone specimens in presence of residual stresses \[4\].
 
 This new implementation further improved the fatigue life predictions on the benchmark “wishbones”, with a reduced scatter in the finite life region.
-![](images/FN_WB_AB_2_1.png)
-*ProFACE 2.1 analysis of as-built wishbone specimens with the new material strength model.*
+![](images/FN_ProFACE_2_1.jpg)
+*ProFACE 2.2 analyses of net-shape Ti-6Al-4V fatigue specimens and as-built AlSi10Mg wishbone specimens with the new material strength model.*
 
 ------------------------------------------------------------------------
 ## Future developments
 
-After the successful benchmark on components manufactured by PBF-LB in AlSi10Mg, another ongoing research project with The MTC as partner is devoted to testing components manufactured in Ti6Al4V.
+After the successful benchmark on components manufactured by PBF-LB in AlSi10Mg and Ti-6Al-4V, other developments of the software tool are planned in:
 
-This activity will allow to:
-
-- establish a database of crack growth properties for annealed Ti6Al4V merging new data with PoliMi database;
-- evaluate the effect of chemical milling;
-- check the ProFACE predictions at different stress ratios.
-
-Other developments of the software tool are planned in:
-
-- Smart-ProFACE project, where the outputs of defect acceptability maps will be adopted for the qualification of space components printed in Ti6Al4V and Scalmalloy®; *Funded by ESA*
-- NEUMANN project, where ProFACE will be adopted for the assessment of aeroengine components in close cooperation with Avio Aero. *Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.* 
+- Smart-ProFACE project, where the outputs of defect acceptability maps will be adopted for the qualification of space components printed in Ti-6Al-4V and Scalmalloy®; *Funded by ESA*
+- NEUMANN project, where ProFACE will be adopted for the assessment of aeroengine components in close cooperation with Avio Aero. *Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.*
 ![](images/EU.png)
-  
+
 ------------------------------------------------------------------------
 ## References
 
@@ -91,3 +83,5 @@ Other developments of the software tool are planned in:
 \[2\] Beretta S., Patriarca L., Gargourimotlagh M., Hardaker A., Brackett D., Salimian  M., Gumpinger J., and Ghidini. T. (2022) “A benchmark activity on the fatigue life assessment of AlSi10Mg components manufactured by L-PBF” *Materials & Design* 218, 110713
 
 \[3\] Sausto F., Romano S., Patriarca L., Miccoli S., and Beretta S. (2022) “Benchmark of a probabilistic fatigue software based on machined and as-built components manufactured in AlSi10Mg by L-PBF” *International Journal of Fatigue* 165, 107171
+
+\[4\] Rusnati L., Minerva G., Patriarca L., Miccoli S., and Beretta S. (2026) "Comparison of methods for the determination of fatigue critical flaw size and implementation for probabilistic fatigue assessment" *International Journal of Fatigue* 203, 109252
